@@ -4,7 +4,7 @@
 ---
 
 ## 🔍 What is Gamified?  
-Gamified is a productivity app that turns your daily tasks into a **gamified experience** using RPG mechanics like XP leveling, streak rewards, and character progression. Stay motivated with a dynamic dashboard, task tracking, and modules for fitness, reading, and more 
+Gamified is a productivity app that turns your daily tasks into a **gamified experience** using RPG mechanics like XP leveling, streak rewards, and character progression. Stay motivated with a dynamic dashboard, task tracking, and modules for fitness, reading, and more.
 
 ---
 
@@ -17,3 +17,52 @@ Gamified is a productivity app that turns your daily tasks into a **gamified exp
 - **Mobile-First**: Cross-platform apps for iOS and Android.  
 
 ---
+
+## 🧱 Tech Stack  
+
+| **Layer**    | **Technology**                     |
+|-------------|-------------------------------------|
+| Frontend     | React, Next.js, Tailwind CSS        |
+| Mobile       | React Native + Expo                 |
+| Backend      | Express.js, Node.js                 |
+| Database     | MongoDB + Mongoose                  |
+| Auth         | JWT + bcrypt.js                     |
+
+---
+
+## 📦 Modules  
+- **Fitness Tracker**: Log workouts and steps.  
+- **Reading Progress**: Track pages/chapters read.  
+- **Productivity Dashboard**: Visualize stats with octagonal graphs and streak calendars.  
+
+---
+
+## 📱 Mobile App  
+Use React Native for cross-platform support:  
+- Push notifications for task reminders.  
+- Simplified UI for touch interactions.  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome!  
+
+1. Fork the repo.  
+2. Create a feature branch: `git checkout -b feature/your-feature`  
+3. Commit changes and push.  
+4. Open a PR with a clear description.  
+
+---
+
+## 📄 License  
+MIT License © Ahmad Faraz Nazar  
+See `LICENSE` for details.  
+
+---
+
+## 📢 Feedback & Support  
+Found a bug or have an idea? Open an issue or email us at [support@gamified.app](mailto:ahmadfaraznazar@gmail.com).
+
+---
+
+_Built with ❤️ using Agile principles and modern full-stack tools._
