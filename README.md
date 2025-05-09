@@ -61,7 +61,7 @@ See `LICENSE` for details.
 ---
 
 ## 📢 Feedback & Support  
-Found a bug or have an idea? Open an issue or email us at [support@gamified.app](mailto:ahmadfaraznazar@gmail.com).
+Found a bug or have an idea? Open an issue or email us at [ahmadfaraznazar@gmail.com](mailto:ahmadfaraznazar@gmail.com).
 
 ---
 
